@@ -17,14 +17,16 @@ h1 {
   color: black;
   text-decoration: underline;
   font-style: normal;
-  text-align: center
+  text-align: center;
 }
 h4 {
-  color: purple;
+  color: black;
+  text-decoration: underline;
 }
-#summary{
+#Summary{
   color: green;
+  text-decoration: underline;
 }
 .skills_hobbies{
-  color: orange;
+  color: black;
 }
