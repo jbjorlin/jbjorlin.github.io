@@ -1,8 +1,18 @@
-.jumbotron{
+.jumbotron {
   background-image: url("mpls.jpg");
   color: white;
 }
 
 .text-center{
   font-family: "Montserrat", sans-serif;
+}
+#title1 {
+  font-size: 30px;
+}
+#under {
+  text-decoration: underline;
+}
+h5 {
+  font-size: 20px;
+  text-align:center;
 }
