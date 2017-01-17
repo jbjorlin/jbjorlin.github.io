@@ -1,5 +1,8 @@
 .jumbotron{
   background-image: url("mpls.jpg");
   color: white;
+}
 
+.text-center{
+  font-family: "Montserrat", sans-serif;
 }
